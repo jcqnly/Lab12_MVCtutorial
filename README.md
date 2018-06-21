@@ -35,7 +35,7 @@ dotnet run
 ---
 
 ## Screenshots
-Initial index page:
+Initial movie list page:
 
 ![Initial Index Page](/assets/siteInTheWorks.png)
 
