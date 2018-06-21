@@ -1,0 +1,17 @@
+﻿body {
+    background-color: lightcoral;
+    color: black;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+}
+
+btn {
+    color: black;
+}
