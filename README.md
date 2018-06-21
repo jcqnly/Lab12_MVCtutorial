@@ -1,5 +1,5 @@
 # Lab12 MVCtutorial
-Code along with a tutorial to create an MVC app
+Code along with a tutorial on how to create an MVC app [here](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.1&tabs=aspnetcore2x)
 
 ---
 ## Objective
@@ -35,8 +35,17 @@ dotnet run
 ---
 
 ## Screenshots
+Initial index page:
 
-![]()
+![Initial Index Page](/assets/siteInTheWorks.png)
+
+New landing page:
+
+![New Landing Page](/assets/newHome.png)
+
+New movie list page design:
+
+![Initial Index Page](/assets/movieList.png)
 
 
 ## Acknowledgements
