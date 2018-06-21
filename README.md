@@ -1,9 +1,13 @@
 # Lab12 MVCtutorial
-Code along with a tutorial on how to create an MVC app [here](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.1&tabs=aspnetcore2x)
+Code along with a tutorial on how to create an MVC app [here](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.1&tabs=aspnetcore2x).
 
 ---
 ## Objective
 Create an ASP.NET Core MVC website with the guidance of [tutuorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=aspnetcore2x&view=aspnetcore-2.1).
+Learn to work with the Entity Framework and enable CRUD
+operations on a local database.  Adjust to working with
+HTML and CSS in conjunction with C# within Razor Pages
+build beautiful sites that have a full backend.
 
 ---
 ## Overview
@@ -35,7 +39,7 @@ dotnet run
 ---
 
 ## Screenshots
-Initial movie list page:
+Initial movie list page with no personal design touches:
 
 ![Initial Index Page](/assets/siteInTheWorks.png)
 
